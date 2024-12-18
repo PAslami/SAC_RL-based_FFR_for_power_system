@@ -1,0 +1,7 @@
+numpy
+torch 
+matplotlib
+gym
+h5py
+seaborn
+pytest
