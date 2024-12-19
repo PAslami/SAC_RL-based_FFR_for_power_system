@@ -23,3 +23,17 @@ python sacFFR/Evaluate/multi_step_load_eval.py --fig-file "multi_step_load_eval.
 python sacFFR/Evaluate/compute_time.py --fig-file "compute_time.png"
 ```
 
+## Citation
+If you find this code useful, kindly consider citing it as follows:
+```
+@INPROCEEDINGS{10318617,
+  author={Aslami, Pooja and Aryal, Tara and Bhujel, Niranjan and Rai, Astha and Rekabdarkolaee, Hossein Moradi and Hansen, Timothy M.},
+  booktitle={2023 North American Power Symposium (NAPS)}, 
+  title={A Soft Actor-Critic Approach for Power System Fast Frequency Response}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Time-frequency analysis;Software packages;Computational modeling;Power system dynamics;Power system stability;Mathematical models;Stability analysis;Fast Frequency Response;Power System Frequency Dynamics;Reinforcement Learning;Soft Actor-Critic},
+  doi={10.1109/NAPS58826.2023.10318617}}
+```
