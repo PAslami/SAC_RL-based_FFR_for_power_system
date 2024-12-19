@@ -1,4 +1,4 @@
-# Fast Frequency Response (FFR) to Power System Frequency Dynamics Using Soft Actor-Critic Algorithm
+# Fast Frequency Response (FFR) to Power System Frequency Dynamics Using Soft Actor-Critic (SAC) Algorithm
 This repository contains the source code required to reproduce the results presented in the following paper:  
 [A Soft Actor-Critic Approach for Power System Fast Frequency Response](https://ieeexplore.ieee.org/document/10318617?denied=)  
 ## Installation
