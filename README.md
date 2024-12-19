@@ -37,3 +37,4 @@ If you find this code useful, kindly consider citing it as follows:
   keywords={Time-frequency analysis;Software packages;Computational modeling;Power system dynamics;Power system stability;Mathematical models;Stability analysis;Fast Frequency Response;Power System Frequency Dynamics;Reinforcement Learning;Soft Actor-Critic},
   doi={10.1109/NAPS58826.2023.10318617}}
 ```
+Feel free to reach out via email at Pooja.Aslami@jacks.sdstate.edu for any inquiries.
